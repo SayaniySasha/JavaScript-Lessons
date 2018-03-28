@@ -2,4 +2,5 @@
 JS lessons 
 
 Lesson №1 - "Типы данных и переменные"
-Lesson №1 - "Числа"
+
+Lesson №2 - "Числа"
