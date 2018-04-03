@@ -14,3 +14,7 @@ Lesson №5 - "Null and undefined"
 Lesson №6 - "Преобразование типов"
 
 Lesson №7 - "Условные инструкции"
+
+Lesson №8 - "Условный оператор"
+
+Lesson №9 - "Циклы"
